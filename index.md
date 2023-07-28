@@ -33,7 +33,11 @@ Topics of interest for the workshop include, but are not limited to:
 - Open challenges on sustainable service-oriented architecture
 - Evaluation of the impact of sustainability on other quality aspects
 
-Participants will have the opportunity to present their research, exchange ideas, and discuss practical experiences in integrating sustainability principles into service-oriented computing. The workshop will feature keynote talks from experts in the field, paper presentations, panel discussions, and interactive sessions to foster collaboration and identify future research directions. We invite researchers, practitioners, and industry representatives to submit original papers, case studies, and position papers for consideration. Accepted contributions will be published in the workshop proceedings, and selected papers may be invited for submission to relevant journals. By exploring the synergy between sustainability and service-oriented computing, this workshop seeks to drive innovations that can mitigate the environmental impact, enhance social equity, and promote economic sustainability in the development and deployment of service-oriented systems. Together, let us pave the way for a more sustainable future through service-oriented computing.
+Participants will have the opportunity to present their research, exchange ideas, and discuss practical experiences in integrating sustainability principles into service-oriented computing.
+The workshop will feature keynote talks from experts in the field, paper presentations, panel discussions, and interactive sessions to foster collaboration and identify future research directions.
+We invite researchers, practitioners, and industry representatives to submit original papers, case studies, and position papers for consideration.
+
+Accepted contributions will be published in the workshop proceedings. By exploring the synergy between sustainability and service-oriented computing, this workshop seeks to drive innovations that can mitigate the environmental impact, enhance social equity, and promote economic sustainability in the development and deployment of service-oriented systems. Together, let us pave the way for a more sustainable future through service-oriented computing.
 
 ## Submission
 
