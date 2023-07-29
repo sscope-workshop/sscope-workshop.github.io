@@ -4,7 +4,8 @@ feature_text: |
   ## SSCOPE 2023
   1st International Workshop on Sustainable Service-Oriented Computing: \
   Addressing Environmental, Social, and Economic Dimensions \
-  co-located with [ICSOC 2023](https://icsoc2023.diag.uniroma1.it)
+  co-located with [ICSOC 2023](https://icsoc2023.diag.uniroma1.it) \
+  November 28, 2023 - Rome, Italy
 feature_image: "/uploads/sscope_rome.jpg"
 excerpt: "1st International Workshop on Sustainable Service-Oriented Computing: Addressing Environmental, Social, and Economic Dimensions co-located with ICSOC 2023"
 ---
