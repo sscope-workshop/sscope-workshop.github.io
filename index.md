@@ -58,12 +58,13 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 
 |                        |                                               | 
 | ---                    | ---                                           |
-| Ilias Gerostathopoulos | Vrije Universiteit Amsterdam, The Netherlands |
-| Ivona Brandic          | Vienna University of Technology, Austria      |
-| Roberto Verdecchia     | University of Florence, Italy                 |
 | Marco Autili           | University of L'Aquila, Italy                 |
-| Davide Taibi           | University of Oulu, Finland                   | 
+| Ivona Brandic          | Vienna University of Technology, Austria      |
 | Matteo Camilli         | Politecnico di Milano, Italy                  |
+| Ilias Gerostathopoulos | Vrije Universiteit Amsterdam, The Netherlands |
+| Davide Taibi           | University of Oulu, Finland                   |
+| Roberto Verdecchia     | University of Florence, Italy                 | 
+
 
 ## Important dates 
 (All deadlines are 23:59, Anywhere on Earth)
