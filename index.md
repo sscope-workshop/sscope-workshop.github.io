@@ -56,15 +56,17 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 
 ## Program Committee
 
-|                        |                                               | 
+|<!--                 -->|<!--                                        -->| 
 | ---                    | ---                                           |
 | Marco Autili           | University of L'Aquila, Italy                 |
 | Ivona Brandic          | Vienna University of Technology, Austria      |
 | Matteo Camilli         | Politecnico di Milano, Italy                  |
 | Ilias Gerostathopoulos | Vrije Universiteit Amsterdam, The Netherlands |
+| Gabriele Russo Russo   | University of Rome Tor Vergata, Italy         |
 | Davide Taibi           | University of Oulu, Finland                   |
 | Roberto Verdecchia     | University of Florence, Italy                 | 
 
+<p></p>
 
 ## Important dates 
 (All deadlines are 23:59, Anywhere on Earth)
