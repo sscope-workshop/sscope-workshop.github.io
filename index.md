@@ -71,8 +71,8 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 ## Important dates 
 (All deadlines are 23:59, Anywhere on Earth)
 
- - Paper submission: September 24, 2023
- - Notification to authors: October 22, 2023
+ - Paper submission: :warning: ~September 24~ October 13, 2023 :warning:
+ - Notification to authors: October 23, 2023
  - Camera-ready papers due: October 29, 2023
  - Early registration due: October 29, 2023
  - Workshop: November 28, 2023
